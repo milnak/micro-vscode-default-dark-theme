@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "vscode-default-dark-theme",
+        "Description": "A color theme based on the Visual Studio Code Dark 2026 (Default Dark) theme",
+        "Tags": [,
+            "color",,
+            "theme",
+            "colorscheme",
+        ],
+        "Versions": [
+            {
+                "Version": "0.1.0",
+                "Url": "https://github.com/milnak/micro-vscode-default-dark-theme/archive/refs/tags/v0.1.0.zip",
+                "Require": {
+                    "micro": ">=2.0.11"
+                }
+            }
+        ]
+    }
+]
