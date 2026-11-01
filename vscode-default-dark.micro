@@ -42,6 +42,7 @@ color-link tabbar.active "#E8875C,#121314"
 color-link todo "#FF7B72"
 color-link trailingws "#373738"
 color-link type "#4EC9B0"
+color-link type.keyword "#FF7B72"
 color-link underlined "underlined"
 
 # The following haven't been assigned yet, as I haven't found cases where they're used.
@@ -57,4 +58,3 @@ color-link identifier.macro "#800000,#008000"
 color-link ignore "#800000,#008000"
 color-link indent-char "#800000,#008000"
 color-link preproc.shebang  "#800000,#008000"
-color-link type.keyword "#800000,#008000"
