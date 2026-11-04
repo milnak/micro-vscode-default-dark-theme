@@ -2,10 +2,10 @@
     {
         "Name": "vscode-default-dark-theme",
         "Description": "A color theme based on the Visual Studio Code Dark 2026 (Default Dark) theme",
-        "Tags": [,
-            "color",,
+        "Tags": [
+            "color",
             "theme",
-            "colorscheme",
+            "colorscheme"
         ],
         "Versions": [
             {
