@@ -10,7 +10,7 @@
         "Versions": [
             {
                 "Version": "0.2.0",
-                "Url": "https://github.com/milnak/micro-vscode-default-dark-theme/archi ve/refs/tags/v0.1.1.zip",
+                "Url": "https://github.com/milnak/micro-vscode-default-dark-theme/archive/refs/tags/v0.2.0.zip",
                 "Require": {
                     "micro": ">=2.0.11"
                 }
